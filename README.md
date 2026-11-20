@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lurianovel.my.id">
-    <img src="public/logo.png" alt="Luria Monogram" width="96" height="96" />
+    <img src="logo.png" alt="Luria Monogram" width="96" height="96" />
   </a>
 
   <h1>Luria</h1>
