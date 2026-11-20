@@ -11,12 +11,6 @@
   </p>
 
   <p>
-    <a href="https://lurianovel.my.id"><strong>Open Web App (lurianovel.my.id) →</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/AgnezGrace/Luria-Novel/raw/refs/heads/main/Luria%20Novel.apk"><strong>Download Android APK (v4.0.0) ↓</strong></a>
-  </p>
-
-  <p>
     <a href="https://lurianovel.my.id/faq">Help & FAQ</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://lurianovel.my.id/privacy">Privacy Policy</a>
@@ -36,7 +30,6 @@
 
 ## Table of Contents
 
-- [Get Started](#get-started)
 - [Why Luria](#why-luria)
 - [Core Features](#core-features)
 - [How to Use Luria](#how-to-use-luria)
@@ -49,19 +42,6 @@
 - [Publishing Formats & Typography](#publishing-formats--typography)
 - [Supported Languages](#supported-languages)
 - [Privacy & Authorship](#privacy--authorship)
-
----
-
-## Get Started
-
-Choose the edition that fits how you write:
-
-| Platform | How to Start |
-| :--- | :--- |
-| **Android App (APK)** | **[Download Luria Novel APK (v4.0.0)](https://github.com/AgnezGrace/Luria-Novel/raw/refs/heads/main/Luria%20Novel.apk)**, open the downloaded file on your Android device, and allow installation if prompted. |
-| **Web & Installable App (Desktop / iOS / Android)** | Open **[https://lurianovel.my.id](https://lurianovel.my.id)** in your browser. Choose *"Install app"* or *"Add to Home Screen"* for a full-screen offline app experience. |
-
----
 
 ## Why Luria
 
