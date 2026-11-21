@@ -20,7 +20,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Web-lurianovel.my.id-1d1d1f?style=flat-square" alt="Web App" />
-    <img src="https://img.shields.io/badge/Android-APK%20v4.0.0-0066cc?style=flat-square" alt="Android APK" />
+    <img src="https://img.shields.io/badge/Android-APK%20v4.0.1-0066cc?style=flat-square" alt="Android APK" />
     <img src="https://img.shields.io/badge/Offline--First-No%20Account%20Needed-2e7d32?style=flat-square" alt="Offline-First" />
     <img src="https://img.shields.io/badge/Exports-PDF%20%7C%20EPUB%203.0%20%7C%20.luria-5c4d42?style=flat-square" alt="Export Formats" />
   </p>
