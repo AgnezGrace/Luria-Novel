@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://lurianovel.my.id">
-    <img src="https://lurianovel.my.id/logo.png" alt="Luria Monogram" width="96" height="96" />
+  <a href="https://github.com/AgnezGrace/Luria-Novel/raw/refs/heads/main/Luria%20Novel.apk">
+    <img src="splash-official.jpg" alt="Luria Novel — tap to download the official APK" />
   </a>
+
+  <a href="https://github.com/AgnezGrace/Luria-Novel/raw/refs/heads/main/Luria%20Nemesis.apk">
+    <img src="splash-nemesis.jpg" alt="Luria Nemesis — tap to download the beta APK" />
+  </a>
+
+  <p><em>Tap a banner to download its APK.</em></p>
 
   <h1>Luria Novel</h1>
 
