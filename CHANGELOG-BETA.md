@@ -7,6 +7,7 @@ All notable changes to Luria are documented in this file. The format follows [Ke
 ### Changed
 
 - Rewrote the FAQ, Privacy, and Terms content across supported languages (PR #30).
+- Relicensed Luria under the MIT License.
 
 ## [2026-11-22]
 
