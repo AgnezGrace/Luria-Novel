@@ -7,8 +7,18 @@ This repository does not publish release tags yet, so entries are grouped by the
 
 ## [2026-11-23]
 
+### Added
+- Markdown hints, a Preview Mode chip, and a hamburger menu label in the chapter editor.
+
 ### Changed
 - Proofreader is now beta-only; its button is disabled in Official builds.
+- `.luria` backup loading now pre-checks the PIN and shows a toast before continuing.
+- FAQ and Terms now state that backups require a 6-digit PIN and exports are limited to PDF, EPUB, and `.luria`.
+- Localized the backup PIN error message.
+
+### Fixed
+- Improved PIN error messaging when WebCrypto is unavailable in non-secure contexts, with a Settings pre-check.
+- Hardened `localStorage` access in `IdbService` to avoid storage failures.
 
 ## [2026-11-22]
 
