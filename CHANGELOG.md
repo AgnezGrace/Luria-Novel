@@ -12,6 +12,7 @@ This repository does not publish release tags yet, so entries are grouped by the
 - Added an i18n and unused-dependency checker.
 
 ### Changed
+- Relicensed Luria under the MIT License.
 - Proofreader is now beta-only; its button is disabled in Official builds.
 - `.luria` backup loading now pre-checks the PIN and shows a toast before continuing.
 - FAQ and Terms now state that backups require a 6-digit PIN and exports are limited to PDF, EPUB, and `.luria`.
