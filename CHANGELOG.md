@@ -9,6 +9,7 @@ This repository does not publish release tags yet, so entries are grouped by the
 
 ### Added
 - Markdown hints, a Preview Mode chip, and a hamburger menu label in the chapter editor.
+- Added an i18n and unused-dependency checker.
 
 ### Changed
 - Proofreader is now beta-only; its button is disabled in Official builds.
@@ -18,6 +19,10 @@ This repository does not publish release tags yet, so entries are grouped by the
 - Updated `@angular/service-worker` to v21.2.26.
 - Updated `angular-eslint` to v21.4.0.
 - Updated the Android Gradle Plugin to v8.13.2.
+- Updated `androidx.appcompat:appcompat` to v1.8.0.
+- Updated `typescript-eslint` to v8.73.0.
+- Updated Python to 3.15.
+- Ported `slug.ts` and `sanitize.ts` to Python for parity.
 - Restored the icon-based menu in the chapter editor.
 - Rewrote FAQ, Privacy, and Terms copy across all supported languages.
 
@@ -27,6 +32,8 @@ This repository does not publish release tags yet, so entries are grouped by the
 
 ### Removed
 - Removed the Markdown guide from the chapter editor.
+- Removed 118 unused localization keys.
+- Removed unused `docx` and `motion` dependencies.
 
 ## [2026-11-22]
 
