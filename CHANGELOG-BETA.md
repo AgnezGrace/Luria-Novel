@@ -13,6 +13,10 @@ All notable changes to Luria are documented in this file. The format follows [Ke
 - Rewrote the FAQ, Privacy, and Terms content across supported languages (PR #30).
 - Relicensed Luria under the MIT License.
 
+### Fixed
+
+- Fixed accessibility lint in the beta collapsible bottom navigation by removing a redundant tap handler and making the outside-tap overlay a real button (PR #41).
+
 ## [2026-11-22]
 
 ### Added
