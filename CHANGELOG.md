@@ -18,10 +18,15 @@ This repository does not publish release tags yet, so entries are grouped by the
 - Updated `@angular/service-worker` to v21.2.26.
 - Updated `angular-eslint` to v21.4.0.
 - Updated the Android Gradle Plugin to v8.13.2.
+- Restored the icon-based menu in the chapter editor.
+- Rewrote FAQ, Privacy, and Terms copy across all supported languages.
 
 ### Fixed
 - Improved PIN error messaging when WebCrypto is unavailable in non-secure contexts, with a Settings pre-check.
 - Hardened `localStorage` access in `IdbService` to avoid storage failures.
+
+### Removed
+- Removed the Markdown guide from the chapter editor.
 
 ## [2026-11-22]
 
