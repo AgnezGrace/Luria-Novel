@@ -5,6 +5,11 @@ All notable changes to Luria are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This repository does not publish release tags yet, so entries are grouped by the date the changes landed on `main`.
 
+## [2026-11-23]
+
+### Changed
+- Proofreader is now beta-only; its button is disabled in Official builds.
+
 ## [2026-11-22]
 
 ### Added
