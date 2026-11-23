@@ -1,62 +1,21 @@
-LURIA END USER LICENCE AGREEMENT
+MIT License
 
-Copyright (c) 2026 AgnezGrace. All rights reserved.
+Copyright (c) 2026 AgnezGrace
 
-This End User Licence Agreement ("Agreement") governs your use of the Luria
-software, including Luria Novel and Luria Nemesis (the "Software"). By
-installing, copying, or using the Software, you agree to be bound by the
-terms of this Agreement. If you do not agree, do not install or use the
-Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-(i) Grant of Licence. The licensor grants you a personal, non-exclusive,
-non-transferable, revocable licence to install and use the Software on
-devices you own or control, for your own personal, non-commercial use.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-(ii) Restrictions. You may not: (a) copy, modify, adapt, translate, or
-create derivative works based on the Software; (b) reverse engineer,
-decompile, disassemble, or otherwise attempt to extract the source code of
-the Software, except to the extent that such restriction is prohibited by
-applicable law; (c) redistribute, sell, rent, lease, lend, sublicense, or
-otherwise make the Software available to any third party; (d) remove,
-alter, or obscure any copyright, trademark, or other proprietary notice in
-the Software; or (e) use the Software in any way that violates any
-applicable law or regulation.
-
-(iii) Ownership. The Software, including all intellectual property rights
-in it, is and shall remain the exclusive property of the licensor. No
-right, title, or interest in the Software is transferred to you except for
-the limited licence expressly granted in clause (i).
-
-(iv) Your Content. Novels, notes, and other content you create with the
-Software belong to you. The Software stores your content locally on your
-device. The licensor does not access, collect, or claim any ownership of
-your content.
-
-(v) Updates. The licensor may provide updates or new versions of the
-Software from time to time. Any update is governed by this Agreement
-unless it is accompanied by a separate licence. Your continued use of the
-Software after an update takes effect constitutes acceptance of this
-Agreement.
-
-(vi) Disclaimer of Warranty. The Software is provided "as is" and "as
-available", without warranty of any kind, whether express, implied, or
-statutory, including but not limited to any implied warranties of
-merchantability, fitness for a particular purpose, and non-infringement. The
-licensor does not warrant that the Software will be error-free or
-uninterrupted, or that any defects will be corrected.
-
-(vii) Limitation of Liability. To the maximum extent permitted by
-applicable law, the licensor shall not be liable for any indirect,
-incidental, special, consequential, or punitive damages, or for any loss of
-data, profits, or manuscripts, arising out of or in connection with your
-use of the Software, even if advised of the possibility of such damages. In
-no event shall the licensor's total liability exceed the amount you paid
-for the Software, if any.
-
-(viii) Termination. This Agreement and the licence granted under it end
-immediately if you breach any of its terms. Upon termination, you must
-stop using the Software and delete all copies in your possession.
-
-(ix) Governing Law. This Agreement shall be governed by and construed in
-accordance with the laws of Indonesia, without regard to its conflict of
-law provisions.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
