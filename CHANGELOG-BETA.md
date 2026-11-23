@@ -4,6 +4,10 @@ All notable changes to Luria are documented in this file. The format follows [Ke
 
 ## [2026-11-23]
 
+### Added
+
+- Collapsible mobile bottom navigation in the beta build, with auto-collapse after idle or when tapping outside (PR #40).
+
 ### Changed
 
 - Rewrote the FAQ, Privacy, and Terms content across supported languages (PR #30).
