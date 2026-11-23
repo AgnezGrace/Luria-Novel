@@ -16,6 +16,8 @@ This repository does not publish release tags yet, so entries are grouped by the
 - FAQ and Terms now state that backups require a 6-digit PIN and exports are limited to PDF, EPUB, and `.luria`.
 - Localized the backup PIN error message.
 - Updated `@angular/service-worker` to v21.2.26.
+- Updated `angular-eslint` to v21.4.0.
+- Updated the Android Gradle Plugin to v8.13.2.
 
 ### Fixed
 - Improved PIN error messaging when WebCrypto is unavailable in non-secure contexts, with a Settings pre-check.
