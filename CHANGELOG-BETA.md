@@ -2,6 +2,12 @@
 
 All notable changes to Luria are documented in this file. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Entries are grouped by date, newest first, because the project does not publish tagged releases yet.
 
+## [2026-11-23]
+
+### Changed
+
+- Rewrote the FAQ, Privacy, and Terms content across supported languages (PR #30).
+
 ## [2026-11-22]
 
 ### Added
