@@ -10,6 +10,7 @@ This repository does not publish release tags yet, so entries are grouped by the
 ### Added
 - Markdown hints, a Preview Mode chip, and a hamburger menu label in the chapter editor.
 - Added an i18n and unused-dependency checker.
+- Added writing reminders to Official builds, without a test button.
 
 ### Changed
 - Relicensed Luria under the MIT License.
